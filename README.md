@@ -6,6 +6,8 @@ Joud Alharbi
 KFUPM – College of Design and Built Environment  
 Sadam Al Azani
 KFUPM - SDAIA-KFUPM joint Reserch Center for Artificial Intelligence
+Muhammad Bilal
+KFUPM – College of Design and Built Environment 
 
 ## Research Topic:  
 AI-Driven Digital Twin for Flood Risk Prediction and Stormwater Management in Jeddah
