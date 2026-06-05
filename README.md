@@ -40,7 +40,7 @@ Model performance was evaluated using :
 - Cohen’s Kappa
 - ROC-AUC
 - Confusion Matrix
--Learning Curve
+- Learning Curve
 
 ## Digital Twin Component
 
