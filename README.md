@@ -38,7 +38,7 @@ Model performance was evaluated using :
 - Recall
 - Macro-averaged F1 score
 - Cohen’s Kappa
--ROC-AUC
+- ROC-AUC
 - Confusion Matrix
 -Learning Curve
 
