@@ -33,14 +33,14 @@ Several classification models were evaluated:
 - Gradient Boosting (Selected Model)
 
 Model performance was evaluated using :
-• Accuracy
-• Precision
-• Recall
-• Macro-averaged F1 score
-• Cohen’s Kappa
-• ROC-AUC
-• Confusion Matrix
-• Learning Curve
+- Accuracy
+- Precision
+- Recall
+- Macro-averaged F1 score
+- Cohen’s Kappa
+-ROC-AUC
+- Confusion Matrix
+-Learning Curve
 
 ## Digital Twin Component
 
