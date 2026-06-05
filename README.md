@@ -32,12 +32,15 @@ Several classification models were evaluated:
 - XGBoost
 - Gradient Boosting (Selected Model)
 
-Model performance was evaluated using:
-- Accuracy
-- Macro-averaged F1 score
-- Confusion Matrix
-- ROC Curve
-- Learning Curve
+Model performance was evaluated using :
+• Accuracy
+• Precision
+• Recall
+• Macro-averaged F1 score
+• Cohen’s Kappa
+• ROC-AUC
+• Confusion Matrix
+• Learning Curve
 
 ## Digital Twin Component
 
